@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Name: Hang Pham and Art to display my art work
+URL: 
+Author: Hang Pham
 
-Template Name: PhotoFolio
-Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
